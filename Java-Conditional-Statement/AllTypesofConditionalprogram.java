@@ -1,6 +1,6 @@
 // package Java-Conditional-Statement;
 
-public class AllTypesofConditionalprog {
+public class AllTypesofConditionalprogram {
     public static void main(String[] args) {
         int a=90;
         int marks=70;
